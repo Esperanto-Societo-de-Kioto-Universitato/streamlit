@@ -150,12 +150,12 @@
   {
     "name": "kolektilo_de_pola-retradio-artikoloj / streamlit_app.py",
     "url": "https://kolektilo-de-pola-retradio-artikoloj-ja.streamlit.app/"
-  }
+  },
 
   {
     "name": "esperanto_words_4choice_quizzes_kopio / app.py",
     "url": "https://esperantowords4choicequizzes-mmhhoyyrd5vgxxtour5fzt.streamlit.app/"
-  }  
+  } ,
   {
     "name": "esperanto_words_4choice_quizzes_kopio / sentence_app.py",
     "url": "https://esperantowords4choicequizzes-frazoj-ja.streamlit.app/"
